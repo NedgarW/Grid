@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Grid</string>
+    <string name="architecture">Architecture</string>
+    <string name="crafts">Crafts</string>
+    <string name="business">Business</string>
+    <string name="culinary">Culinary</string>
+    <string name="design">Design</string>
+    <string name="fashion">Fashion</string>
+    <string name="film">Film</string>
+    <string name="gaming">Gaming</string>
+    <string name="drawing">Drawing</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="music">Music</string>
+    <string name="painting">Painting</string>
+    <string name="photography">Photography</string>
+    <string name="tech">Tech</string>
+    <string name="Int58">58</string>
+    <string name="Int121">121</string>
+    <string name="Int78">78</string>
+    <string name="Int118">118</string>
+    <string name="Int423">423</string>
+    <string name="Int92">92</string>
+    <string name="Int165">165</string>
+    <string name="Int164">164</string>
+    <string name="Int326">326</string>
+    <string name="Int305">305</string>
+    <string name="Int212">212</string>
+    <string name="Int172">172</string>
+    <string name="Int321">321</string>
+</resources>
